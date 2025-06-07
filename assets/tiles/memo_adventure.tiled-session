@@ -1,0 +1,44 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "MemoAdventure.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level-01.tmx": {
+            "scale": 1.01,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.2970297029703,
+                "y": 183.6633663366337
+            }
+        },
+        "MemoAdventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/Users/andyxie/Documents/Andy/Python/memo_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "MemoAdventure.tsx",
+        "Level-01.tmx"
+    ],
+    "project": "memo_adventure.tiled-project",
+    "recentFiles": [
+        "Level-01.tmx",
+        "MemoAdventure.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
