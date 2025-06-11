@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "MemoAdventure.tsx",
+    "activeFile": "Level-01.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -33,8 +33,8 @@
     ],
     "project": "memo_adventure.tiled-project",
     "recentFiles": [
-        "Level-01.tmx",
-        "MemoAdventure.tsx"
+        "MemoAdventure.tsx",
+        "Level-01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
