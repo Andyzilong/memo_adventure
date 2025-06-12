@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flame/components.dart';
 import 'package:flame_tiled/flame_tiled.dart';
+import 'package:memo_adventure/actors/player.dart';
 
 class Level extends World {
   
@@ -14,6 +15,7 @@ class Level extends World {
 
     
     add(level);
+    add(Player());
     return super.onLoad();
   }
 }
