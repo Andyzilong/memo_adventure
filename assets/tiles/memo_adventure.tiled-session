@@ -9,11 +9,22 @@
     ],
     "fileStates": {
         "Level-01.tmx": {
-            "scale": 1.01,
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.8059,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 320.2970297029703,
-                "y": 183.6633663366337
+                "x": 304.62836580220875,
+                "y": 258.71696240228323
+            }
+        },
+        "Level-02.tmx": {
+            "scale": 1.099921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.56815114709855,
+                "y": 184.10398465800128
             }
         },
         "MemoAdventure.tsx": {

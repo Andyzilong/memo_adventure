@@ -10,7 +10,7 @@ class MemoAdventure extends FlameGame {
   Color backgroundColor() => const Color(0xFf211F30);
   late final CameraComponent cam;
   
-  final world = Level();
+  final world = Level(levelName: 'Level-01');
 
   @override
   FutureOr<void> onLoad() async{
