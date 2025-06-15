@@ -12,11 +12,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.8059,
-            "selectedLayer": 0,
+            "scale": 1.1994,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 559.002357612607,
-                "y": 380.9405633453283
+                "x": 309.7382024345506,
+                "y": 125.4794063698516
             }
         },
         "Level-02.tmx": {
@@ -26,8 +26,8 @@
             "scale": 1.099921875,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 319.5681511470985,
-                "y": 183.64940691810497
+                "x": 319.56815114709855,
+                "y": 183.1948291782087
             }
         },
         "MemoAdventure.tsx": {
