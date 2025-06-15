@@ -15,16 +15,19 @@
             "scale": 0.8059,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 304.62836580220875,
-                "y": 258.71696240228323
+                "x": 559.002357612607,
+                "y": 380.9405633453283
             }
         },
         "Level-02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1.099921875,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 319.56815114709855,
-                "y": 184.10398465800128
+                "x": 319.5681511470985,
+                "y": 183.64940691810497
             }
         },
         "MemoAdventure.tsx": {
@@ -40,11 +43,13 @@
     "map.width": 40,
     "openFiles": [
         "MemoAdventure.tsx",
-        "Level-01.tmx"
+        "Level-01.tmx",
+        "Level-02.tmx"
     ],
     "project": "memo_adventure.tiled-project",
     "recentFiles": [
         "MemoAdventure.tsx",
+        "Level-02.tmx",
         "Level-01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",

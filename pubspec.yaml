@@ -68,6 +68,7 @@ flutter:
       - assets/images/MainCharacters/NinjaFrog/
       - assets/images/MainCharacters/PinkMan/
       - assets/images/MainCharacters/VirtualGuy/
+      - assets/images/HUD/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
