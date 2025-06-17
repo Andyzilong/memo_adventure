@@ -28,7 +28,7 @@
 24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24,24
 </data>
  </layer>
- <objectgroup id="3" name="Collisions" class="Collistions">
+ <objectgroup id="3" name="Collisions" class="Collisions">
   <object id="10" x="48" y="32" width="544" height="16"/>
   <object id="11" x="48" y="32"/>
   <object id="12" x="48" y="32" width="16" height="288"/>
@@ -48,6 +48,10 @@
   <object id="30" x="480" y="256" width="96" height="48"/>
  </objectgroup>
  <objectgroup id="2" name="Spawnpoints">
-  <object id="6" name="Player" type="Player" x="304.3" y="255.718" width="31.3775" height="31.3775"/>
+  <object id="6" name="Player" type="Player" x="304.3" y="255.718" width="31.3775" height="31.3775">
+   <properties>
+    <property name="BackgroundColor" value="Gray"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

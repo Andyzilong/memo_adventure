@@ -15,7 +15,7 @@ class MemoAdventure extends FlameGame
   late final CameraComponent cam;
   Player player = Player(character: 'MaskDude');
   late JoystickComponent joystick;
-  bool showJoyStick = true;
+  bool showJoyStick = false;
 
   @override
   FutureOr<void> onLoad() async {
